@@ -28,5 +28,7 @@ PlantWatch Pro is your green kingdom's best friend, always at your side to ensur
 # Get Started:
 To get started with PlantWatch Pro, download the app from your preferred app store and follow the on-screen instructions. Start your journey to maintaining healthy, disease-free plants and join a thriving community of plant lovers.
 
-***Happy Plant Watching! 🌿🌼🔍***
-Please make sure to customize this README to include specific installation and usage instructions for your app. Additionally, provide contact information or links to support and community resources as needed.
+                                                                        
+                                                                        
+                                                            ***Happy Plant Watching! 🌿🌼🔍***
+
